@@ -1,5 +1,5 @@
 # CS50 Houses Project
-Implement program to import student data from csv file into student database and create class rosters. 
+Implement program to import student data from csv file into student database and create class rosters. For requirements and details click [here](https://cs50.harvard.edu/x/2020/psets/7/houses/)
 
 # What I Implemented
 1. Python program that reads in csv file using delimiter and executes SQL to INSERT INTO database
